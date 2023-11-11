@@ -36,4 +36,4 @@
 - 🌱 Faço faculdade de Sistemas de informação na unifacisa, além de estudar a parte em cursos online e participar de diversos projetos desenvolvendo aplicações inovadores.
 - ⚡ Curiosidade: Gosto de experimentar coisas novas no setor da tecnologia como aprender novas tecnologias, apis, frameworks e me especializar ainda mais na minha base...
 
-![snake gif](https://github.com/ThiagoFND/ThiagoFND/blob/output/github-contribution-grid-snake.svg)
+![snake-gif](https://github.com/ThiagoFND/ThiagoFND/blob/output/github-contribution-grid-snake.svg)
