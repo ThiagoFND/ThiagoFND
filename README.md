@@ -1,10 +1,4 @@
 <h1>Bem vindo ao meu perfil!</h1>
-<div>
-  <a href="https://beacons.ai/edutavares">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josiastavares&show_icons=true&theme=radical&locale=pt-br"/>
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiastavares&layout=donut&theme=radical&locale=pt-br"/>
-  </a>
-</div>
 
 <div width="100%" style="display: inline_block; text-align:center;"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
