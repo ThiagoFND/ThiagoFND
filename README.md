@@ -1,5 +1,12 @@
 <h1>Bem vindo ao meu perfil!</h1>
 
+<div>
+  <a href="https://beacons.ai/edutavares">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofnd&show_icons=true&theme=radical&locale=pt-br"/>
+  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofnd&layout=donut&theme=radical&locale=pt-br"/>
+  </a>
+</div>
+
 <div width="100%" style="display: inline_block; text-align:center;"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,8 +20,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <i class="devicon-java-plain-wordmark colored"></i>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 <hr>
