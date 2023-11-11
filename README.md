@@ -1,7 +1,7 @@
 <h1>Bem vindo ao meu perfil!</h1>
 
 <div>
-  <a href="https://beacons.ai/edutavares">  
+  <a href="https://thiagoport.netlify.app/">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofnd&show_icons=true&theme=radical&locale=pt-br"/>
   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofnd&layout=donut&theme=radical&locale=pt-br"/>
   </a>
