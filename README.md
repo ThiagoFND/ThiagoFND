@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://thiagoport.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar meu portfólio">
-  </a>
   <a href="https://www.linkedin.com/in/thiagofnd/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Acessar meu LinkedIn">
   </a>
