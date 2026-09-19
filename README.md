@@ -1,111 +1,111 @@
-<h1 align="center">Olá, eu sou Thiago Fernandes 👋</h1>
+<h1 align="center">Hi, I'm Thiago Fernandes 👋</h1>
 
 <p align="center">
   <strong>Software Developer | TypeScript & Node.js | Backend Development</strong>
 </p>
 
 <p align="center">
-  Desenvolvimento de aplicações web e mobile, APIs e sistemas de gestão.<br>
-  Foco em arquitetura de software, segurança e soluções alinhadas às necessidades do negócio.
+  Building web and mobile applications, APIs, and business management systems.<br>
+  Focused on software architecture, security, and solutions aligned with business needs.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagofnd/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Acessar meu LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Visit my LinkedIn profile">
   </a>
   <a href="mailto:thiagofernandess158@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar um e-mail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email">
   </a>
 </p>
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou **graduado em Sistemas de Informação pela Unifacisa**, com atuação no desenvolvimento de aplicações web e mobile e foco em backend.
+I hold a **Bachelor's degree in Information Systems from Unifacisa** and develop web and mobile applications, with a focus on backend development.
 
-Trabalho com **TypeScript, Node.js, NestJS, Java e Python**, construindo APIs e sistemas que conectam regras de negócio, dados e interfaces. No frontend, utilizo **Angular, React e Ionic**.
+I work with **TypeScript, Node.js, NestJS, Java, and Python**, building APIs and systems that connect business logic, data, and user interfaces. On the frontend, I use **Angular, React, and Ionic**.
 
-Tenho experiência com sistemas de gestão, incluindo vendas, estoque, produção, financeiro e operações. Busco construir soluções com responsabilidades bem definidas, controle de acesso e código de fácil manutenção.
+My experience includes business management systems covering sales, inventory, production, finance, and operations. I aim to build solutions with clearly defined responsibilities, access control, and maintainable code.
 
-Também aprofundo meus conhecimentos em **Cybersecurity, infraestrutura e Inteligência Artificial**, explorando sua aplicação no desenvolvimento de software.
+I also continue to develop my knowledge of **cybersecurity, infrastructure, and artificial intelligence**, exploring their practical applications in software development.
 
-- **Backend:** APIs REST, autenticação, autorização e integração entre sistemas.
-- **Arquitetura:** organização em camadas, controllers, services, repositories e DTOs.
-- **Dados:** modelagem e persistência com MongoDB e PostgreSQL, além de uso de Redis.
-- **Infraestrutura:** execução e configuração de aplicações com Docker, Nginx e PM2.
-- **Localização:** Campina Grande, Paraíba — Brasil.
+- **Backend:** REST APIs, authentication, authorization, and system integration.
+- **Architecture:** Layered architecture, controllers, services, repositories, and DTOs.
+- **Data:** Data modeling and persistence with MongoDB and PostgreSQL, as well as Redis.
+- **Infrastructure:** Application deployment and configuration with Docker, Nginx, and PM2.
+- **Location:** Campina Grande, Paraíba, Brazil.
 
-## Tecnologias e ferramentas
+## Technologies and Tools
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,java,spring,python,fastapi,django&theme=dark" alt="TypeScript, Node.js, NestJS, Java, Spring, Python, FastAPI e Django">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,java,spring,python,fastapi,django&theme=dark" alt="TypeScript, Node.js, NestJS, Java, Spring, Python, FastAPI, and Django">
 </p>
 
-### Frontend e Mobile
+### Frontend and Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,js,html,css,sass,bootstrap&theme=dark" alt="Angular, React, JavaScript, HTML, CSS, Sass e Bootstrap">
+  <img src="https://skillicons.dev/icons?i=angular,react,js,html,css,sass,bootstrap&theme=dark" alt="Angular, React, JavaScript, HTML, CSS, Sass, and Bootstrap">
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic">
 </p>
 
-### Banco de dados e infraestrutura
+### Databases and Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,nginx,linux,azure&theme=dark" alt="MongoDB, PostgreSQL, Redis, Docker, Nginx, Linux e Azure">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,nginx,linux,azure&theme=dark" alt="MongoDB, PostgreSQL, Redis, Docker, Nginx, Linux, and Azure">
 </p>
 
-### Ferramentas
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, Visual Studio Code e Figma">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, Visual Studio Code, and Figma">
 </p>
 
-## Projetos em destaque
+## Featured Projects
 
-| Projeto | Proposta | Funcionalidades |
+| Project | Purpose | Features |
 | :--- | :--- | :--- |
-| **Plataforma de gestão modular** | Integrar diferentes áreas do negócio com cadastros compartilhados. | Vendas, estoque, produção, financeiro e controle de acesso. |
-| **BrunoCar** | Organizar a operação de lavagem de veículos. | Ordens de serviço, responsáveis, critérios de avaliação e relatórios. |
-| **TCTech** | Apoiar a gestão de percursos em uma empresa de ônibus. | Mapeamento de trajetos e consulta de percursos para motoristas. |
+| **Modular Business Management Platform** | Connect business operations through shared master data. | Sales, inventory, production, finance, and access control. |
+| **BrunoCar** | Manage vehicle washing operations. | Work orders, staff assignments, evaluation criteria, and reports. |
+| **TCTech** | Support route management for a bus company. | Route mapping and itinerary access for drivers. |
 
-## Como trabalho
+## How I Work
 
-- Organizo o código por responsabilidade, mantendo regras de negócio separadas da interface e da persistência.
-- Implemento validação de dados e autorização no backend.
-- Priorizo testes dos fluxos críticos e das regras de negócio.
-- Documento decisões e instruções de execução para facilitar a manutenção.
-- Considero usabilidade, desempenho e necessidades operacionais nas decisões técnicas.
+- Organize code by responsibility, keeping business logic separate from the interface and persistence layers.
+- Implement data validation and authorization on the backend.
+- Prioritize tests for critical workflows and business rules.
+- Document technical decisions and setup instructions to simplify maintenance.
+- Consider usability, performance, and operational requirements when making technical decisions.
 
-## Atividade no GitHub
+## GitHub Activity
 
 <div align="center">
   <a href="https://github.com/thiagofnd">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=thiagofnd&show_icons=true&theme=radical&locale=pt-br&hide_border=true"
-      alt="Estatísticas públicas do GitHub de Thiago Fernandes"
+      src="https://github-readme-stats.vercel.app/api?username=thiagofnd&show_icons=true&theme=radical&locale=en&hide_border=true"
+      alt="Thiago Fernandes's public GitHub statistics"
     >
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofnd&layout=compact&theme=radical&locale=pt-br&hide_border=true"
-      alt="Linguagens presentes nos repositórios públicos de Thiago Fernandes"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofnd&layout=compact&theme=radical&locale=en&hide_border=true"
+      alt="Languages used in Thiago Fernandes's public repositories"
     >
   </a>
 </div>
 
 <p align="center">
-  <sub>Os indicadores refletem os repositórios públicos e não representam toda a minha experiência profissional.</sub>
+  <sub>These statistics reflect public repositories and do not represent the full scope of my professional experience.</sub>
 </p>
 
-## Contato
+## Contact
 
-Estou disponível para conversar sobre desenvolvimento de software, projetos e oportunidades profissionais.
+I'm open to conversations about software development, projects, and professional opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagofnd/">
@@ -115,7 +115,7 @@ Estou disponível para conversar sobre desenvolvimento de software, projetos e o
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="mailto:thiagofernandess158@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -124,6 +124,6 @@ Estou disponível para conversar sobre desenvolvimento de software, projetos e o
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/thiagofnd/thiagofnd/output/github-contribution-grid-snake.svg"
-    alt="Animação das contribuições no GitHub"
+    alt="GitHub contribution snake animation"
   >
 </p>
