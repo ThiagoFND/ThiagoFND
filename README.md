@@ -74,12 +74,6 @@ Também aprofundo meus conhecimentos em **Cybersecurity, infraestrutura e Inteli
 | **BrunoCar** | Organizar a operação de lavagem de veículos. | Ordens de serviço, responsáveis, critérios de avaliação e relatórios. |
 | **TCTech** | Apoiar a gestão de percursos em uma empresa de ônibus. | Mapeamento de trajetos e consulta de percursos para motoristas. |
 
-<p>
-  <a href="https://thiagoport.netlify.app/">
-    <strong>Conheça meu portfólio →</strong>
-  </a>
-</p>
-
 ## Como trabalho
 
 - Organizo o código por responsabilidade, mantendo regras de negócio separadas da interface e da persistência.
